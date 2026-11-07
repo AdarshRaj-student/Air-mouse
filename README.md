@@ -1,5 +1,5 @@
 # Air-mouse
-Thos mouse works on air and works very smoth and its easy to create and for creating you just need this repository
+This mouse works on air and works very smoth and its easy to create and for creating you just need this repository
 # AirMouse 🖱️
 
 An **Air Mouse** built using **ESP32 + MPU6050 + BLE Mouse library**.  
